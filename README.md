@@ -26,7 +26,6 @@
 
    ```bash
    git clone https://github.com/bishesh910/DjangoVideoUploader.git
-   cd DjangoVideoUploader/RPAvideo
    ```
 
 
