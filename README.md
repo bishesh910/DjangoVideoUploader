@@ -1,5 +1,3 @@
----
-
 # Django Video Uploader
 
 **Django video uploader** is a simple Django-based web application that allows users to upload and view video files through a browser interface. It serves as a foundational project for learning Django’s file handling, form processing, and media management capabilities.
